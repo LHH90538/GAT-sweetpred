@@ -3,6 +3,9 @@ torch-geometric
 pandas
 scipy
 scikit-learn
-rdkit==2022.03.1
+rdkit==2023.9.1
+numpy
 matplotlib
 tqdm
+ipykernel
+scikit-learn
